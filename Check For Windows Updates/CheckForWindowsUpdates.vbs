@@ -1,5 +1,5 @@
 ' Script Name: CheckForWindowsUpdates.vbs
-' Description: This will run a Windows Defender scan.
+' Description: This will run check for Windows updates. 
 
 
 'Run the command
